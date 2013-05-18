@@ -1,7 +1,6 @@
 {
   "name": "simple-hogan",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "start": "node example/app.js"
   },
