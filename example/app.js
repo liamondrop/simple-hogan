@@ -1,5 +1,5 @@
 var express = require('express')
-  , simple = require('./lib/simple-hogan')
+  , simple = require('../lib/simple-hogan')
   , routes = require('./routes')
   , http = require('http')
   , path = require('path');
