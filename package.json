@@ -2,8 +2,11 @@
   "name": "simple-hogan",
   "version": "0.0.1",
   "private": true,
+  "scripts": {
+    "start": "node example/app.js"
+  },
   "dependencies": {
     "express": "3.2.4",
-    "hogan.js": ">=2.0.0"
+    "hogan.js": "2.0.0"
   }
 }
