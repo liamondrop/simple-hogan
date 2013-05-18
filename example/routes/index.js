@@ -1,9 +1,8 @@
-
 exports.index = function(req, res){
   var vars = {
-    title: 'Express test',
-    message: 'using Hogan templating system'
+    title: 'Express + Hogan',
+    message: 'Sitting in a tree...'
   };
-  var parts = { part: 'part.smpl' };
-  res.render('index.smpl', { variables: vars, partials: parts });
+  var parts = { part: 'partial.html' };
+  res.render('layout.html', { variables: vars, partials: parts });
 };
