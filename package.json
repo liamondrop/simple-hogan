@@ -5,7 +5,24 @@
     "start": "node example/app.js"
   },
   "dependencies": {
-    "express": "3.2.4",
+    "express": "*",
     "hogan.js": "2.0.0"
-  }
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "1cc66fcaec1074f1a2726bf8015ab674f79df9c8",
+  "description": "simple-hogan ============",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/liamondrop/simple-hogan.git"
+  },
+  "keywords": [
+    "hogan.js"
+  ],
+  "author": "Liam Bowers",
+  "license": "BSD"
 }
