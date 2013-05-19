@@ -10,7 +10,7 @@
   },
   "readmeFilename": "README.md",
   "gitHead": "1cc66fcaec1074f1a2726bf8015ab674f79df9c8",
-  "description": "simple-hogan ============",
+  "description": "simple-hogan",
   "main": "index.js",
   "directories": {
     "example": "example"
