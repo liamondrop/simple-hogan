@@ -21,7 +21,8 @@
     "url": "git://github.com/liamondrop/simple-hogan.git"
   },
   "keywords": [
-    "hogan.js"
+    "hogan.js",
+    "express"
   ],
   "author": "Liam Bowers",
   "license": "BSD"
