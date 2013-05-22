@@ -1,11 +1,11 @@
 {
   "name": "simple-hogan",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "start": "node example/app.js"
   },
   "dependencies": {
-    "express": "*",
+    "express": "3.2.5",
     "hogan.js": "2.0.0"
   },
   "readmeFilename": "README.md",
