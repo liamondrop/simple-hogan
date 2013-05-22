@@ -9,7 +9,6 @@
     "hogan.js": "2.0.0"
   },
   "readmeFilename": "README.md",
-  "gitHead": "b40a310c428ad3e97c8a6181048c70e335bcd44b",
   "description": "simple-hogan",
   "main": "index.js",
   "directories": {
