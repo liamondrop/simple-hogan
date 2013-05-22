@@ -6,7 +6,7 @@ Simple Express Middleware for Hogan.js
 
 ## Getting started
 
-First, create a project directory.
+Once you've installed Node.js & npm, you'll need to create a project directory.
 ```bash
 $ mkdir new-project
 ```
